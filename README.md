@@ -1,8 +1,29 @@
-# React + Vite
+A minimal portfolio template for Developers!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3 align="center">
+    🔹
+    <a href="https://github.com/suiironman/portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/suiironman/portfolio/issues">Request Feature</a>
+</h3>
+
+This project was built using these technologies.
+
+- React.js
+- Node.js
+- CSS3
+- Tailwind CSS
+- DaisyUI
+- VsCode
+
+## Getting Started
+
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
