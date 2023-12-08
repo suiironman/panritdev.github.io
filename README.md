@@ -1,5 +1,4 @@
-A minimal portfolio template for Developers!
-
+<h1 align="center">A minimal portfolio template for Developers!</h1>
 
 
 <h3 align="center">
